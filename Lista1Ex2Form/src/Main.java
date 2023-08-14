@@ -10,6 +10,6 @@ public class Main {
         System.out.println("A subtração é: " + calculadora.subtrair());
         System.out.println("A multiplicação é: " + calculadora.multiplicar());
         System.out.println("A divisão é: " + calculadora.dividir());
-        
+
     }
 }
